@@ -7,3 +7,5 @@
 - [Design with CSS](https://seidomo.github.io/reading-notes/designwithcss)
 
 - [Revision-cloud](https://seidomo.github.io/reading-notes/revision-cloud)
+
+- [Web structure](https://seidomo.github.io/reading-notes/web-structure)
