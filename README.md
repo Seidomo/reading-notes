@@ -11,3 +11,5 @@
 - [Web structure](https://seidomo.github.io/reading-notes/web-structure)
 
 - [JavaScript](https://seidomo.github.io/reading-notes/javascript)
+
+ - [How Computres Work](https://seidomo.github.io/reading-notes/howcomputersworks)
