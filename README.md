@@ -12,4 +12,8 @@
 
 - [JavaScript](https://seidomo.github.io/reading-notes/javascript)
 
- - [How Computres Work](https://seidomo.github.io/reading-notes/howcomputerworks)
+- [How Computres Work](https://seidomo.github.io/reading-notes/howcomputerworks)
+
+- [Programming With Javascript](https://seidomo.github.io/reading-notes/programming)
+
+- [Algorithm](https://seidomo.github.io/reading-notes/algorith)
