@@ -9,3 +9,5 @@
 - [Revision-cloud](https://seidomo.github.io/reading-notes/revision-cloud)
 
 - [Web structure](https://seidomo.github.io/reading-notes/web-structure)
+
+- [JavaScript](https://seidomo.github.io/reading-notes/javascript)
