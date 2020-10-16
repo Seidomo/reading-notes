@@ -17,3 +17,5 @@
 - [Programming With Javascript](https://seidomo.github.io/reading-notes/programming)
 
 - [Algorithm](https://seidomo.github.io/reading-notes/algorith)
+
+ - [Operators and Loops](https://seidomo.github.io/reading-notes/operatorsandloop)
